@@ -93,8 +93,21 @@ class Dashboard extends React.Component
 					  <option selectedvalue="C">C</option>
 					  <option value="CPP">C++</option>
 					  <option value="JAVA">JAVA</option>
-					  <option value="JAVASCRIPT">JAVASCRIPT</option>
+					  <option value="JAVASCRIPT_NODE">NODEJS</option>
 					  <option value="PYTHON">PYTHON</option>
+					  <option value="CLOJURE">CLOJURE</option>
+					  <option value="CSHARP">C#</option>
+					  <option value="GO">GO</option>
+					  <option value="HASKELL">HASKELL</option>
+					  <option value="OBJECTIVEC">OBJECTIVE-C</option>
+					  <option value="PASCAL">PASCAL</option>
+					  <option value="PERL">PERL</option>
+					  <option value="PHP">PHP</option>
+					  <option value="R">R</option>
+					  <option value="RUBY">RUBY</option>
+					  <option value="RUST">RUST</option>
+					  <option value="SCALA">SCALA</option>
+					  <option value="SWIFT">SWIFT</option>
 					</select>					
 			        <ReactMde 
 			        	weidth={100}
