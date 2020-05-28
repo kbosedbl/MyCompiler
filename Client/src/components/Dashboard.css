@@ -1,0 +1,54 @@
+.Dropdown{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 2.1%;
+	margin-bottom: 2%;
+}
+
+.stdin{
+	height: 200px;
+	margin-top: 5px !important;
+	margin-left: 10%;
+	width: 30%;
+}
+
+.stdout{
+	height: 200px;
+	margin-top: 1.2% !important;
+	margin-bottom: 2.1% !important;
+	margin-left: 10%;
+	width: 30%;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  border-style: groove;
+}
+
+.btn2{
+  width: 30%;
+  margin-left: 10%;
+  margin-right: 60%;
+  margin-top: 1.2%;
+  margin-bottom: 0.3%;
+  background: #008000;
+  color: #fff;
+  border-bottom: 1px solid #008000 !important;
+  border-radius: 2px 2px 0 0 !important;
+}
+
+h4{
+	margin-top: 2.1%;
+	margin-left: 10%;
+}
+
+button2{	
+  margin-left: 10%;
+  margin-right: 0px;  
+  background: #008000;
+  color: #fff;
+  border-bottom: 1px solid #008000 !important;
+  border-radius: 2px 2px 0 0 !important;
+}
+
+textarea{
+  overflow-y: scroll;
+}
